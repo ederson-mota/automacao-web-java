@@ -1,2 +1,2 @@
 # automacao-web-java
-Projeto de automação Web com java + Selenium + cucumber
+Projeto de automação Web com java + Selenium + Cucumber
